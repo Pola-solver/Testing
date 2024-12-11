@@ -1,0 +1,10 @@
+john_doe,password123,1,John,Doe,Male,1990-05-15,2024-01-31
+jane_smith,password456,2,Jane,Smith,Female,1992-03-22,2024-02-29
+robert_brown,password789,3,Robert,Brown,Male,1988-07-13,2024-03-31
+emily_jones,password321,4,Emily,Jones,Female,1995-11-30,2024-04-30
+michael_johnson,password654,5,Michael,Johnson,Male,1993-06-07,2024-05-31
+sarah_wilson,password987,6,Sarah,Wilson,Female,1991-01-19,2024-06-30
+david_clark,passwordabc,7,David,Clark,Male,1987-09-25,2024-07-31
+emma_taylor,passworddef,8,Emma,Taylor,Female,1994-12-10,2024-08-31
+james_anderson,passwordghi,9,James,Anderson,Male,1986-02-14,2024-09-30
+olivia_martin,passwordjkl,10,Olivia,Martin,Female,1998-04-20,2024-10-31

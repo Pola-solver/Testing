@@ -1,0 +1,10 @@
+john_doe,password123,1,John,Doe,Male,2024-01-31,Basic,100,john_doe@gmail.com
+jane_smith,password456,2,Jane,Smith,Female,2024-02-29,Standard,200,jane_smith@gmail.com
+robert_brown,password789,3,Robert,Brown,Male,2024-03-31,Standard,200,robert_brown@gmail.com
+emily_jones,password321,4,Emily,Jones,Female,2024-04-30,Premium,300,emily_jones@gmail.com
+michael_johnson,password654,5,Michael,Johnson,Male,2024-05-31,Premium,300,michael_johnson@gmail.com
+sarah_wilson,password987,6,Sarah,Wilson,Female,2024-06-30,Basic,100,sarah_wilson@gmail.com
+david_clark,passwordabc,7,David,Clark,Male,2024-07-31,Basic,100,david_clark@gmail.com
+emma_taylor,passworddef,8,Emma,Taylor,Female,2024-08-31,Standard,200,emma_taylor@gmail.com
+james_anderson,passwordghi,9,James,Anderson,Male,2024-09-30,Premium,300,james_anderson@gmail.com
+olivia_martin,passwordjkl,10,Olivia,Martin,Female,2024-10-31,Basic,100,olivia_martin@gmail.com
